@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TogaffVPN" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">#ff5ec4</item>
+        <item name="colorPrimaryVariant">#bf5aff</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorSecondary">#5affb0</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:windowBackground">#060410</item>
+        <item name="android:statusBarColor">#060410</item>
+        <item name="android:navigationBarColor">#060410</item>
+    </style>
+</resources>

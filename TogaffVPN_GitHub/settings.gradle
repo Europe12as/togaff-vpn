@@ -1,0 +1,2 @@
+rootProject.name = "TogaffVPN"
+include ':app'
